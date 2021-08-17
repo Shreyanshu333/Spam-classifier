@@ -1,6 +1,6 @@
 # Spam-classifier
 
-
+Classifying SMS Messages as HAM or Spam
 
 
 
